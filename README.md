@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 #### 💻 Using 💻
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Github&logoColor=white"/> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GaGyeong-Kim)](https://github.com/GaGyeong-Kim/github-readme-stats)
